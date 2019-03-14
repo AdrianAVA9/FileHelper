@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FileHelper</id>
+    <version>1.0.0</version>
+    <authors>Adrian Vega</authors>
+    <owners>Adrian Vega</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/AdrianAVA9/FileHelper</projectUrl>
+    <iconUrl>https://img.icons8.com/color/48/000000/developer.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This package helpe you to save files, get files, get files information, resize image</description>
+    <copyright>Copyright 2019</copyright>
+    <tags>Files save get images resize</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
